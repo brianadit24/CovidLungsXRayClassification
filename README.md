@@ -12,7 +12,7 @@ This is Machine Learning Notebook Research to Classify Covid on X-ray of Lungs w
 5. Training with Freeze Model
 6. Continue Training with UnFreeze Model (Fine Tuning)
 7. Saved and Evaluate The Model
-8. A/B Testing
+8. A/B Testing (Compare Model)
 
 ## Result
 1. <b>Training History:</b>
